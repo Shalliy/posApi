@@ -2,5 +2,16 @@
   "registerDevice": {
     "error_code": "0",
     "message": "操作成功"
+  },
+  "heart": {
+    "error_code": "0",
+    "message": "操作成功",
+    "data": {
+      "device_update": 0,
+      "person_update": 0,
+      "pay_update": 0,
+      "config_update": 0,
+      "app_upgrade": 0
+    }
   }
 }
