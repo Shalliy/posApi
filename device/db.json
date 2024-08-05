@@ -1,11 +1,11 @@
 {
-  "device/online": {
+  "online": {
     "message": "操作成功",
     "code": 0,
     "detail": null,
     "data": null
   },
-  "device/heart": {
+  "heart": {
     "message": "操作成功",
     "code": 0,
     "detail": "",
