@@ -18,27 +18,32 @@
     }
   },
   "payConfig": {
-    "mode": 1,
-    "offlineCountLimit": 2,
-    "quotas": [
-      {
-        "amount": 67.00,
-        "beginTime": "00:00",
-        "endTime": "08:00"
-      },
-      {
-        "amount": 88.00,
-        "beginTime": "08:00",
-        "endTime": "14:00"
-      },
-      {
-        "amount": 34.00,
-        "beginTime": "14:00",
-        "endTime": "23:00"
-      }
-    ],
-    "singleAmountLimit": 5000,
-    "isOfflinePay": 1,
-    "offlineAmountLimit": 5000
+    "message": "操作成功",
+    "code": 0,
+    "detail": "",
+    "data": {
+      "mode": 1,
+      "offlineCountLimit": 2,
+      "quotas": [
+        {
+          "amount": 3000,
+          "beginTime": "00:00",
+          "endTime": "08:00"
+        },
+        {
+          "amount": 2000,
+          "beginTime": "08:00",
+          "endTime": "14:00"
+        },
+        {
+          "amount": 3000,
+          "beginTime": "14:00",
+          "endTime": "23:00"
+        }
+      ],
+      "singleAmountLimit": 5000,
+      "isOfflinePay": 1,
+      "offlineAmountLimit": 5000
+    }
   }
 }
