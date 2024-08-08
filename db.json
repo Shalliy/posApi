@@ -24,23 +24,7 @@
     "data": {
       "mode": 1,
       "offlineCountLimit": 2,
-      "quotas": [
-        {
-          "amount": 35,
-          "beginTime": "00:00",
-          "endTime": "08:00"
-        },
-        {
-          "amount": 24.65,
-          "beginTime": "08:00",
-          "endTime": "14:00"
-        },
-        {
-          "amount": 37.06,
-          "beginTime": "14:00",
-          "endTime": "23:00"
-        }
-      ],
+      "quotas": null,
       "singleAmountLimit": 50.00,
       "isOfflinePay": 1,
       "offlineAmountLimit": 100.00
