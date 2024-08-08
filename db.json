@@ -41,9 +41,9 @@
           "endTime": "23:00"
         }
       ],
-      "singleAmountLimit": 5000,
+      "singleAmountLimit": 50.00,
       "isOfflinePay": 1,
-      "offlineAmountLimit": 5000
+      "offlineAmountLimit": 100.00
     }
   }
 }
