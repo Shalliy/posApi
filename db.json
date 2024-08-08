@@ -26,7 +26,7 @@
       "offlineCountLimit": 2,
       "quotas": [
         {
-          "amount": 35.00,
+          "amount": 35,
           "beginTime": "00:00",
           "endTime": "08:00"
         },
